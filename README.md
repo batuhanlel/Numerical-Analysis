@@ -1,2 +1,2 @@
 # Numerical-Analysis
-Implementation of some Numerical Analysis methods in C
+Implementation of some Numerical Analysis methods for polynomial equations in C
