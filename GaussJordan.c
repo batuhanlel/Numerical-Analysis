@@ -24,7 +24,7 @@ int main(){
 	for(i=0;i<n;i++){
 		
 		if(A[i][i]==0){
-			printf("Tanýmsýz Ýslem (payda 0)");
+			printf("TanÃ½msÃ½z Ãslem (payda 0)");
 			return 0;
 		}
 		
@@ -44,7 +44,6 @@ int main(){
 	for(i=0;i<n;i++){
 		for(j=0;j<=n;j++){
 			i=i+1,j=j+1;
-	//		printf("A[%d][%d] : ",i,j);
 			i=i-1,j=j-1;
 			printf("%0.3lf\t",A[i][j]);
 		}
