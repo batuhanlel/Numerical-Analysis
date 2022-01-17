@@ -1,6 +1,7 @@
 #include<stdio.h>
-#define SIZE 100
 #include<math.h>
+
+#define SIZE 100
 
 int main(){
 	
@@ -45,7 +46,7 @@ int main(){
 	}
 	x=D;
 	
- 	double muteps=1; //iþlem sýrasýnda kontrol edilen epsilon deðerin mutlak deðeri
+ 	double muteps=1; //iÅŸlem sÄ±rasÄ±nda kontrol edilen epsilon deÄŸerin mutlak deÄŸeri
  	double c,Fc;     
  	
  	printf("\nAdim\tX1\t    F(x1)\tX2\t    F(x2)\t X3\t     F(x3)      Eps\n");
@@ -96,60 +97,3 @@ int main(){
 	getch();
 	return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
