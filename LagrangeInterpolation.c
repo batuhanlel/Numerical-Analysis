@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<math.h>
+
 #define S 50
 
 int main(){
